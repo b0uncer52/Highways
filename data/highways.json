@@ -1,0 +1,14 @@
+{
+	"blueridge": {
+		"length": "2132 miles",
+		"built": "1912",
+		"traffic": "2.7 billion cars per year",
+		"name": "Blue Ridge Road"
+	},
+	"route66": {
+		"length": "1983 miles",
+		"built": "1899",
+		"traffic": "2.9 billion cars per year",
+		"name": "Route 66"
+	}
+}
